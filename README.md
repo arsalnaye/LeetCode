@@ -24,6 +24,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
@@ -35,4 +36,12 @@ A collection of LeetCode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
