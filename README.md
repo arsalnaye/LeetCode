@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsalnaye/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/arsalnaye/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/arsalnaye/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsalnaye/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -81,5 +84,6 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
