@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsalnaye/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/arsalnaye/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsalnaye/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arsalnaye/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
