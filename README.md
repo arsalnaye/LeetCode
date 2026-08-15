@@ -11,6 +11,7 @@ A collection of LeetCode questions
 | [0128-longest-consecutive-sequence](https://github.com/arsalnaye/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions
 | [0152-maximum-product-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/arsalnaye/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -86,4 +90,9 @@ A collection of LeetCode questions
 | ------- |
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
