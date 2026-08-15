@@ -23,6 +23,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arsalnaye/LeetCode/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -33,6 +34,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arsalnaye/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/arsalnaye/LeetCode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0053-maximum-subarray) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arsalnaye/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
