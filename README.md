@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/arsalnaye/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/arsalnaye/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arsalnaye/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
 | [3866-first-unique-even-element](https://github.com/arsalnaye/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/arsalnaye/LeetCode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
