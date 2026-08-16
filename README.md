@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/arsalnaye/LeetCode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
 | [3866-first-unique-even-element](https://github.com/arsalnaye/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions
 | ------- |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arsalnaye/LeetCode/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
