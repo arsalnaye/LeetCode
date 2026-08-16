@@ -65,6 +65,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/arsalnaye/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arsalnaye/LeetCode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arsalnaye/LeetCode/tree/master/0704-binary-search) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arsalnaye/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arsalnaye/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
