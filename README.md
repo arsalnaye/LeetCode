@@ -48,6 +48,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arsalnaye/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arsalnaye/LeetCode/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arsalnaye/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
 | [3866-first-unique-even-element](https://github.com/arsalnaye/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arsalnaye/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arsalnaye/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions
 | ------- |
 | [0054-spiral-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arsalnaye/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
