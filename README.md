@@ -40,6 +40,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arsalnaye/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/arsalnaye/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions
 | ------- |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
 ## Recursion
@@ -82,6 +84,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/arsalnaye/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arsalnaye/LeetCode/tree/master/0704-binary-search) |
