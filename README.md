@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
 | [3866-first-unique-even-element](https://github.com/arsalnaye/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions
 | [0075-sort-colors](https://github.com/arsalnaye/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/arsalnaye/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -97,10 +99,12 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/arsalnaye/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsalnaye/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |
 | ------- |
