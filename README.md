@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0075-sort-colors](https://github.com/arsalnaye/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/arsalnaye/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/arsalnaye/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -99,6 +100,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/arsalnaye/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/arsalnaye/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
