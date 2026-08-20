@@ -58,6 +58,7 @@ A collection of LeetCode questions
 | [0724-find-pivot-index](https://github.com/arsalnaye/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arsalnaye/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/arsalnaye/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3866-first-unique-even-element](https://github.com/arsalnaye/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions
 | [0198-house-robber](https://github.com/arsalnaye/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/arsalnaye/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/arsalnaye/LeetCode/tree/master/0518-coin-change-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/arsalnaye/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions
 | [0074-search-a-2d-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsalnaye/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/arsalnaye/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Recursion
 |  |
 | ------- |
