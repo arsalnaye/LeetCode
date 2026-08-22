@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/arsalnaye/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/arsalnaye/LeetCode/tree/master/0015-3sum) |
+| [0040-combination-sum-ii](https://github.com/arsalnaye/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arsalnaye/LeetCode/tree/master/0053-maximum-subarray) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/arsalnaye/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/arsalnaye/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arsalnaye/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
