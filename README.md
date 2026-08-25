@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/arsalnaye/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsalnaye/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/arsalnaye/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/arsalnaye/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/arsalnaye/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/arsalnaye/LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/arsalnaye/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/arsalnaye/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/arsalnaye/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0054-spiral-matrix) |
