@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/arsalnaye/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsalnaye/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/arsalnaye/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/arsalnaye/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/arsalnaye/LeetCode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/arsalnaye/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/arsalnaye/LeetCode/tree/master/0049-group-anagrams) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/arsalnaye/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/arsalnaye/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/arsalnaye/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/arsalnaye/LeetCode/tree/master/0052-n-queens-ii) |
@@ -196,6 +200,11 @@ A collection of LeetCode questions
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/arsalnaye/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/arsalnaye/LeetCode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
