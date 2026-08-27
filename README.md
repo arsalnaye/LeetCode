@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0128-longest-consecutive-sequence](https://github.com/arsalnaye/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/arsalnaye/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arsalnaye/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arsalnaye/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/arsalnaye/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arsalnaye/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions
 | [0141-linked-list-cycle](https://github.com/arsalnaye/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arsalnaye/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/arsalnaye/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arsalnaye/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/arsalnaye/LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/arsalnaye/LeetCode/tree/master/0541-reverse-string-ii) |
