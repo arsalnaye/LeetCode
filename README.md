@@ -29,6 +29,7 @@ A collection of LeetCode questions
 | [0234-palindrome-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/arsalnaye/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions
 | ------- |
 | [0054-spiral-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/arsalnaye/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Ternary Search
 |  |
 | ------- |
