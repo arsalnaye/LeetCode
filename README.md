@@ -91,6 +91,7 @@ A collection of LeetCode questions
 | [0724-find-pivot-index](https://github.com/arsalnaye/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arsalnaye/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
+| [1046-last-stone-weight](https://github.com/arsalnaye/LeetCode/tree/master/1046-last-stone-weight) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/arsalnaye/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3866-first-unique-even-element](https://github.com/arsalnaye/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
@@ -256,5 +257,6 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/arsalnaye/LeetCode/tree/master/1046-last-stone-weight) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arsalnaye/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
