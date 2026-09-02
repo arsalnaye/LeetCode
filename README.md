@@ -179,6 +179,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/arsalnaye/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arsalnaye/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -252,4 +253,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/arsalnaye/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arsalnaye/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
