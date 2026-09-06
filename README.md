@@ -36,6 +36,7 @@ A collection of LeetCode questions
 | [0445-add-two-numbers-ii](https://github.com/arsalnaye/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/arsalnaye/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/arsalnaye/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/arsalnaye/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/arsalnaye/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/arsalnaye/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
