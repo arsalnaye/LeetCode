@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/arsalnaye/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsalnaye/LeetCode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arsalnaye/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3866-first-unique-even-element](https://github.com/arsalnaye/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions
 | [0867-transpose-matrix](https://github.com/arsalnaye/LeetCode/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/arsalnaye/LeetCode/tree/master/1046-last-stone-weight) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/arsalnaye/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arsalnaye/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3866-first-unique-even-element](https://github.com/arsalnaye/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsalnaye/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/arsalnaye/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/arsalnaye/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arsalnaye/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
 |  |
 | ------- |
