@@ -45,6 +45,7 @@ A collection of LeetCode questions
 | ------- |
 | [0015-3sum](https://github.com/arsalnaye/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arsalnaye/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/arsalnaye/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/arsalnaye/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/arsalnaye/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/arsalnaye/LeetCode/tree/master/0086-partition-list) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/arsalnaye/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/arsalnaye/LeetCode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/arsalnaye/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/arsalnaye/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/arsalnaye/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/arsalnaye/LeetCode/tree/master/0040-combination-sum-ii) |
